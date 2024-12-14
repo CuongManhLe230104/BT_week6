@@ -1,0 +1,16 @@
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\QLSV_project2.exe.config
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\QLSV_project2.exe
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\QLSV_project2.pdb
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\EntityFramework.dll
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\EntityFramework.xml
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.csproj.AssemblyReference.cache
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.Form1.resources
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.Properties.Resources.resources
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.csproj.GenerateResource.cache
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.csproj.CoreCompileInputs.cache
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_pro.3EFC5FB9.Up2Date
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.exe
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.pdb
+D:\C# project\LeManhCuong_2280600340\QLSV_project\QLSV_project2\obj\Debug\QLSV_project2.Khoa.resources
